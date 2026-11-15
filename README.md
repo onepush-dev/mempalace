@@ -2,7 +2,7 @@
 
 [MemPalace](https://github.com/MemPalace/mempalace) (MIT) — local-first AI memory: verbatim storage, semantic search and a knowledge graph, served to your AI clients as an MCP server. This template runs it as an always-on, token-protected **HTTP MCP hub** that every client (Claude Code, Cursor, Codex, ...) can share. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/EMMLnN)
 
 ## What this template runs
 
